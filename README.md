@@ -6,7 +6,7 @@ This version allows you to take the shots as well.
 ## Notes:
 - You cannot change where the output of the comparison goes. (I mean, unless you want to add that functionality yourself. I made this as a quick and dirty fix for myself) The final output will always be a text file starting with "~" in System32
 
-- You cannot change what it will scan. It will always do a full directory scan of the C:\ drive and of the registry. (Again, unless you want to fix that yourself.)
+- You cannot change what it will scan. It will always do a full recursive directory scan of the C:\ drive and of the registry. (Again, unless you want to fix that yourself.)
 
 - You need to make sure your first shot file has the extension ".hivu"
 
