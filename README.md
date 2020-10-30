@@ -1,5 +1,5 @@
 # RegShot CLI
-This is literally just an addition to the command line RegShot from https://sourceforge.net/p/regshot/code/324/
+This is literally just an addition to the command line RegShot from https://sourceforge.net/p/regshot/code/322/
 In that version there is a RegShot_CMD.exe that can do comparison shots only.
 This version allows you to take the shots as well.
 
