@@ -10,6 +10,8 @@ This version allows you to take the shots as well.
 
 - You need to make sure your first shot file has the extension ".hivu"
 
+- I only made one for ANSI not unicode
+
 ## Usage
 Taking a RegShot:
 ```
