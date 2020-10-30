@@ -1,0 +1,20 @@
+﻿  Generating revision number...
+  SubWCRev, which is part of TortoiseSVN, wasn't found in your path!
+  You should (re)install TortoiseSVN ( http://tortoisesvn.net/ ).
+  Revision "Unknown" is used for now.
+  fileshot.c
+  language.c
+  misc.c
+  output.c
+  regshot.c
+  setup.c
+  ui.c
+  winmain.c
+c:\users\fam\source\repos\regshot\src\fileshot.c(333): warning C4459: declaration of 'hFile' hides global declaration
+  c:\users\fam\source\repos\regshot\src\global.h(484): note: see declaration of 'hFile' (compiling source file src\fileshot.c)
+c:\users\fam\source\repos\regshot\src\fileshot.c(386): warning C4459: declaration of 'lpszMessage' hides global declaration
+  c:\users\fam\source\repos\regshot\src\global.h(459): note: see declaration of 'lpszMessage' (compiling source file src\fileshot.c)
+c:\users\fam\source\repos\regshot\src\fileshot.c(485): warning C4459: declaration of 'lpszMessage' hides global declaration
+  c:\users\fam\source\repos\regshot\src\global.h(459): note: see declaration of 'lpszMessage' (compiling source file src\fileshot.c)
+c:\users\fam\source\repos\regshot\src\regshot.c(653): warning C4477: '_snprintf' : format string '%ld' requires an argument of type 'long', but variadic argument 8 has type 'LARGE_INTEGER'
+  regshot_vs2010.vcxproj -> C:\Users\Fam\source\Repos\RegShot\bin\VS2010\Regshot_cmd\Win32\CONSOLE Debug\Regshot_cmd-x86-ANSI-dbg.exe
