@@ -27,9 +27,7 @@ Comparing to a RegShot:
 ```
 Regshot_cmd-x(86 or 64)-ANSI.exe <Path to Stored HIVU file>.hivu -C
 
-EX:
+EX: (Final output will be a text file in System32 starting with "~")
 ---
 Regshot_cmd-x64-ANSI.exe C:\Temp\Output.hivu -C
-
-(Output will be a text file in System32 starting with "~")
 ```
