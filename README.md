@@ -8,6 +8,8 @@ This version allows you to take the shots as well.
 
 - You cannot change what it will scan. It will always do a full directory scan of the C:\ drive and of the registry. (Again, unless you want to fix that yourself.)
 
+- You need to make sure your first shot file has the extension ".hivu"
+
 ## Usage
 Taking a RegShot:
 ```
